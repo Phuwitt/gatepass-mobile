@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<host-apdu-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/gatepass_nfc_card"
+    android:requireDeviceUnlock="true"
+    android:requireDeviceScreenOn="true">
+    <aid-group android:category="other" android:description="@string/gatepass_nfc_card">
+        <aid-filter android:name="F0474154455041" />
+    </aid-group>
+</host-apdu-service>

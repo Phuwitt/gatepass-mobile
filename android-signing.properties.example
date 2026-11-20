@@ -1,0 +1,5 @@
+# Copy privately to ~/.config/gatepass/android-signing.properties
+storeFile=/absolute/path/to/your-release-keystore.jks
+storePassword=REPLACE_PRIVATELY
+keyAlias=REPLACE_PRIVATELY
+keyPassword=REPLACE_PRIVATELY

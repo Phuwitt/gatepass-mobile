@@ -1,0 +1,10 @@
+{
+  "download_url": "https://gatepass-lab-phuwitt.vercel.app/GATEPASS-LAB-1.0.0.apk",
+  "bytes": 65842523,
+  "sha256": "6c32ef61db5e9602527467b89328d4023d4f439315fa5b8e9ae4abc26dad9194",
+  "status": "verified exact match",
+  "application_id": "com.gotoradiant.gatepass_lab",
+  "version": "1.0.0",
+  "minimum_android_api": 24,
+  "signing_certificate_sha256": "d44ed65facc001029a7192d94f012392f49da7726ec706b21e4892cab342cfef"
+}
